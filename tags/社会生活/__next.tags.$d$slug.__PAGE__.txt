@@ -1,0 +1,37 @@
+2:"$Sreact.fragment"
+3:"/_next/static/chunks/2ofhqs2zbauzi.js"
+4:"/_next/static/chunks/37bylv116jhvb.js"
+5:"/_next/static/chunks/43ky2u6wf1-cr.js"
+6:"/_next/static/chunks/02gau0y6_v4cn.js"
+7:"/_next/static/chunks/3qmva-7ln5pu2.js"
+8:I[82240,["$3","$4","$5","$6","$7"],"default"]
+9:I[92188,["$3","$4","$5","$6","$7"],"default"]
+10:"/_next/static/chunks/0ar3mnwm-25xx.js"
+11:I[39801,["$3","$4","$5","$6","$7","$10"],"HeroNetwork"]
+12:I[53085,["$3","$4","$5","$6","$7","$10"],"Text"]
+13:I[93398,["$3","$4","$5","$6","$7","$10"],""]
+14:"PaginatedResourceGrid"
+15:I[53403,["$3","$4","$5","$6","$7","$10"],"$14"]
+16:I[82689,["$3","$4","$5","$6","$7"],"OutletBoundary"]
+17:"$Sreact.suspense"
+1a:"ViewportBoundary"
+1b:I[82689,["$3","$4","$5","$6","$7"],"$1a"]
+1c:"MetadataBoundary"
+1d:I[82689,["$3","$4","$5","$6","$7"],"$1c"]
+1e:I[40138,["$3","$4","$5","$6","$7"],"IconMark"]
+b:X
+b:C
+c:X
+f:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[["$","section",null,{"className":"store-hero-background store-archive-network relative overflow-hidden px-4 py-8 text-center text-white","children":[["$","$L11",null,{"blend":true}],["$","div",null,{"className":"relative","children":[["$","h1",null,{"className":"text-store-section font-semibold break-words","children":[["$","$L12",null,{"id":"tagLabel"}],"：","社会生活"]}],["$","div",null,{"className":"text-store-nav mt-2 text-white/80","children":[2," ",["$","$L12",null,{"id":"resourceCount"}]," ·"," ",["$","$L13",null,{"href":"/tags/","className":"store-link underline-offset-4 hover:underline","children":["$","$L12",null,{"id":"backTags"}]}]]}]]}]]}],["$","div",null,{"className":"px-store-gutter mx-auto max-w-[1320px]","children":["$","section",null,{"className":"pt-store-section pb-6","children":["$","$L15",null,{"hideSinglePage":true,"resources":[{"slug":"men-and-business","title":"男性与经商","summary":"讨论经商、创业和相关处世经验，保留20世纪90年代通俗商业读物的内容。","category":"经济金融","cover":"/images/books/men-and-business.webp","updated":"2026-11-14","featured":false,"tags":["经济金融","经商","社会生活"],"downloadCount":1,"contentType":"book","coverAspectRatio":0.6939226519337016,"authors":["舒志"],"publisher":"经济日报出版社"},{"slug":"men-and-women","title":"男性与女性","summary":"围绕男性与女性的相处展开，记录20世纪90年代相关社会生活读物的讨论方式。","category":"社会观察","cover":"/images/books/men-and-women.webp","updated":"2026-11-14","featured":false,"tags":["社会观察","两性关系","社会生活"],"downloadCount":1,"contentType":"book","coverAspectRatio":0.6939226519337016,"authors":["舒志"],"publisher":"经济日报出版社"}]}]}]}]],[["$","script","script-0",{"src":"/_next/static/chunks/0ar3mnwm-25xx.js","async":true}]],["$","$L16",null,{"children":["$","$17",null,{"name":"Next.MetadataOutlet","children":"$@18"}]}]]}],"p":"$@19","v":null,"s":"$c"}}]]
+d:[["children",{"s":{"n":"slug","t":"d","k":"%E7%A4%BE%E4%BC%9A%E7%94%9F%E6%B4%BB","s":[]},"h":65632,"d":{"r":["$","$2","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}]}]]}],"p":"$@e","v":"$b","s":"$c"},"c":"$Qf"}]]
+1:[["children",{"s":"tags","h":131136,"d":{"r":["$","$2","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}]}]]}],"p":"$@a","v":"$b","s":"$c"},"c":"$Qd"}]]
+0:{"t":{"t":{"s":"","h":131088,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L1b",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1d",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$17",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"社会生活 · 小赵书库"}],["$","meta","1",{"name":"description","content":"社会生活相关资源"}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://zhao-book.netlify.app/tags/%E7%A4%BE%E4%BC%9A%E7%94%9F%E6%B4%BB/"}],["$","meta","4",{"property":"og:title","content":"社会生活"}],["$","meta","5",{"property":"og:description","content":"社会生活相关资源"}],["$","meta","6",{"property":"og:url","content":"https://zhao-book.netlify.app/tags/%E7%A4%BE%E4%BC%9A%E7%94%9F%E6%B4%BB/"}],["$","meta","7",{"property":"og:site_name","content":"小赵书库"}],["$","meta","8",{"property":"og:locale","content":"zh_CN"}],["$","meta","9",{"property":"og:image","content":"https://zhao-book.netlify.app/share.png"}],["$","meta","10",{"property":"og:type","content":"website"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"社会生活"}],["$","meta","13",{"name":"twitter:description","content":"社会生活相关资源"}],["$","meta","14",{"name":"twitter:image","content":"https://zhao-book.netlify.app/share.png"}],["$","link","15",{"rel":"icon","href":"/icon.svg"}],["$","link","16",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L1e","17",{}]]}]}],null]}],null]}],"p":"$@1f","v":null,"s":"$c"}},"a":"$@20","u":"$@21","b":"GN3X8K04KJoXKdzcKB3Kv"}
+18:null
+21:true
+c:300
+c:C
+20:0
+e:"$undefined"
+a:"$undefined"
+1f:"$undefined"
+19:"$undefined"

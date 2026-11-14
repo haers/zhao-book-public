@@ -2,7 +2,7 @@
 3:"/_next/static/chunks/2ofhqs2zbauzi.js"
 4:"/_next/static/chunks/37bylv116jhvb.js"
 5:"/_next/static/chunks/43ky2u6wf1-cr.js"
-6:"/_next/static/chunks/1gcjc5el0ainc.js"
+6:"/_next/static/chunks/02gau0y6_v4cn.js"
 7:"/_next/static/chunks/3qmva-7ln5pu2.js"
 8:I[82240,["$3","$4","$5","$6","$7"],"default"]
 9:I[92188,["$3","$4","$5","$6","$7"],"default"]
@@ -21,7 +21,7 @@ b:C
 c:X
 d:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","div",null,{"className":"mx-auto space-y-4 px-4 py-20 text-center","children":[["$","h1",null,{"className":"text-store-section font-semibold","children":["$","$Lf",null,{"id":"notFound"}]}],["$","$L10",null,{"href":"/books/","className":"text-store-nav text-primary-accent","children":["$","$Lf",null,{"id":"returnCatalog"}]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/3-su_b7tfzv_0.js","async":true}]],["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]]}],"p":"$@14","v":null,"s":"$c"}}]]
 1:[["children",{"s":"/_not-found","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","template":["$","$L9",null,{}]}]]}],"p":"$@a","v":"$b","s":"$c"},"c":"$Qd"}]]
-0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$12",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"页面未找到 · 小赵书库"}],["$","meta","1",{"name":"description","content":"按书名、作者与ISBN查找图书，阅读简介、出版信息并访问夸克资源。"}],["$","meta","2",{"name":"robots","content":"noindex, follow"}],["$","link","3",{"rel":"icon","href":"/icon.svg"}],["$","link","4",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L19","5",{}]]}]}],null]}],null]}],"p":"$@1a","v":null,"s":"$c"}},"a":"$@1b","u":"$@1c","b":"uyFf6O1NTWcv05MrzkxMG"}
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L16",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L18",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$12",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"页面未找到 · 小赵书库"}],["$","meta","1",{"name":"description","content":"按书名、作者与ISBN查找图书，阅读简介、出版信息并访问夸克资源。"}],["$","meta","2",{"name":"robots","content":"noindex, follow"}],["$","link","3",{"rel":"icon","href":"/icon.svg"}],["$","link","4",{"rel":"apple-touch-icon","href":"/apple-touch-icon.png"}],["$","$L19","5",{}]]}]}],null]}],null]}],"p":"$@1a","v":null,"s":"$c"}},"a":"$@1b","u":"$@1c","b":"GN3X8K04KJoXKdzcKB3Kv"}
 13:null
 1c:true
 c:300
