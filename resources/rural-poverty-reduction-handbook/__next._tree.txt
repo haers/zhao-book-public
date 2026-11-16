@@ -1,6 +1,6 @@
-:HL["/_next/static/chunks/2n6_xfbrt37l8.css","style"]
-:HL["/_next/static/chunks/2tmnvwzeglj8x.css","style"]
+:HL["/_next/static/chunks/2tz1nrykp6vzk.css","style"]
+:HL["/_next/static/chunks/0rk2gtwets5sx.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"rural-poverty-reduction-handbook","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"resources","h":131136,"c":"$Q2"}]]
-0:{"b":"8ib68uUwLbSwfhfkStTgo","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
+0:{"b":"_pGzAyJQsmlbqQSPKRb91","t":{"t":{"s":"","h":131088,"c":"$Q1"}}}
